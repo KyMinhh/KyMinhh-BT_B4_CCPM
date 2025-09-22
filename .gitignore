@@ -1,0 +1,47 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]estResults/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.config
+
+# Others
+*.dbmdl
+*.bak
+*.log
+*.tmp
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+
+# Auto-generated files
+Generated_Code/
+
+# Publish profiles
+*.pubxml
+*.publishproj
+
+# Azure build output
+csx/
+*.build.csdef
+
+# Rider / JetBrains
+.idea/
+
+# Mac junk (nếu có ai mở project trên Mac)
+.DS_Store
