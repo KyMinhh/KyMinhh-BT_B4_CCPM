@@ -16,5 +16,10 @@ namespace MyProject
         {
             InitializeComponent();
         }
+
+        private void lblusername_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
